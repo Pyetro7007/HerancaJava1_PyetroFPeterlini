@@ -1,9 +1,21 @@
-Sistema de Gerenciamento de Funcionários
-Este repositório compartilha um aplicativo console para gerenciamento de funcionários, desenvolvido em Java. O sistema permite o cadastro de novos funcionários (Gerente, Desenvolvedor ou Estagiário), a exibição dos dados cadastrados e integra funcionalidades básicas para treinar conceitos de programação orientada a objetos (POO), como herança, sobrescrita de métodos, e uso de classes e objetos.
+# Sistema de Gerenciamento de Funcionários
 
-Funcionalidades
-Cadastrar Funcionários: Cadastro de no máximo 3 funcionários, com nome, CPF, data de nascimento e cargo (Gerente, Desenvolvedor ou Estagiário).
+Este repositório compartilha um aplicativo console para **gerenciamento de funcionários**, desenvolvido em **Java**. O sistema permite o **cadastro de novos funcionários** (Gerente, Desenvolvedor ou Estagiário), a **exibição dos dados cadastrados**.
 
-Exibição de Dados: Mostra os dados de todos os funcionários cadastrados (nome, CPF, data de nascimento e cargo) diretamente no console.
+## 🛠️ Tecnologias Utilizadas
 
-Para mais informações das mudanças que eu fiz acesse esse link: 
+- **Linguagem**: Java
+
+- **Ferramenta**: Scanner
+
+## Funcionalidades
+
+### 📋 Cadastro de Funcionários
+Cadastro de no máximo **3 funcionários**, com as seguintes informações:
+- Nome.
+- CPF.
+- Data de nascimento.
+- Cargo (Gerente, Desenvolvedor ou Estagiário).
+
+### Para mais informações das mudanças que eu fiz acesse este link:
+
