@@ -2,7 +2,7 @@
 
 Este repositório compartilha um aplicativo console para **gerenciamento de funcionários**, desenvolvido em **Java**. O sistema permite o **cadastro de novos funcionários** (Gerente, Desenvolvedor ou Estagiário), a **exibição dos dados cadastrados**.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem**: Java
 
@@ -10,7 +10,7 @@ Este repositório compartilha um aplicativo console para **gerenciamento de func
 
 ## Funcionalidades
 
-### 📋 Cadastro de Funcionários
+### Cadastro de Funcionários
 Cadastro de no máximo **3 funcionários**, com as seguintes informações:
 - Nome.
 - CPF.
