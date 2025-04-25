@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Funcionários
 
-Este repositório compartilha um aplicativo console para **gerenciamento de funcionários**, desenvolvido em **Java**. O sistema permite o **cadastro de novos funcionários** (Gerente, Desenvolvedor ou Estagiário), a **exibição dos dados cadastrados**.
+Este repositório compartilha um aplicativo console para gerenciamento de funcionários, desenvolvido em **Java**. O sistema permite o cadastro de novos funcionários (Gerente, Desenvolvedor ou Estagiário) e a exibição dos dados cadastrados.
 
 ## Tecnologias Utilizadas
 
