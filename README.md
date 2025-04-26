@@ -17,5 +17,5 @@ Cadastro de no máximo **3 funcionários**, com as seguintes informações:
 - Data de nascimento.
 - Cargo (Gerente, Desenvolvedor ou Estagiário).
 
-### Para mais informações das mudanças que eu fiz acesse este link:
+### Para mais informações do código acesse: https://youtu.be/dlqOJQVedTc
 
